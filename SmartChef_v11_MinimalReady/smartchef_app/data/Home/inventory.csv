@@ -1,0 +1,4 @@
+id,name,category,subcategory,location,quantity,unit,purchased_on,expires_on,barcode,notes
+1,broccoli,produce,greens,fridge,1,,2025-08-28,2025-09-03,,
+2,jasmine rice,pantry,grains,pantry,2,cup,2025-07-10,2026-07-10,,
+3,chicken breast,meat,poultry,freezer,4,lb,2025-08-01,2026-02-01,,

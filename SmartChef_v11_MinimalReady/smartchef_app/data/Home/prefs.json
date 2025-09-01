@@ -1,0 +1,19 @@
+{
+  "diet": {
+    "gluten_free": false,
+    "vegetarian": false,
+    "vegan": false,
+    "dairy_free": false
+  },
+  "allergens": {
+    "peanuts": false,
+    "tree_nuts": false,
+    "soy": false,
+    "dairy": false,
+    "eggs": false,
+    "fish": false,
+    "shellfish": false,
+    "sesame": false,
+    "wheat": false
+  }
+}

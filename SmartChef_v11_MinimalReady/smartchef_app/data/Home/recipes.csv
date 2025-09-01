@@ -1,0 +1,3 @@
+id,title,ingredients,steps,tags,image,calories_per_serving,protein_g,carbs_g,fat_g,servings,meal_type
+101,Chicken & Veggie Stir Fry,"broccoli, chicken breast, jasmine rice, soy sauce",...,"gluten-free,high-protein,30-min",,,,,4,dinner
+102,Mediterranean Grain Bowl,"cucumber, cherry tomato, feta, farro, olive oil",...,"vegetarian,balanced,25-min",,,,,4,lunch
